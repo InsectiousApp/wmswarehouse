@@ -12,7 +12,7 @@ import mehdi.sakout.fancybuttons.FancyButton;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     FancyButton blogin;
-
+    Button gitButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
